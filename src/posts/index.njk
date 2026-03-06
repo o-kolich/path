@@ -5,6 +5,10 @@ permalink: /posts/index.html
 ---
 <section class="post-list">
   <h1>All Posts</h1>
+  <div class="post-taxonomy-links">
+    <a href="{{ '/categories/' | url }}">Categories</a>
+    <a href="{{ '/tags/' | url }}">Tags</a>
+  </div>
   <ul>
     {% for post in collections.posts %}
       <li>

@@ -5,8 +5,8 @@ permalink: /about/index.html
 ---
 Wellcome on the internal website of **The Path**.
 
-I know that a better name would be highly desirable, but I do not have one yet, so The Path it is. On this site I aim to provide the broadest possible field of materials relevant for practicioners in our comunity, cummulatting the knowledge and insides shared during our many events and personal sessions.
+On this site, I aim to provide all of the materials relevant to practitioners in our community, compiling the knowledge and insights shared during our events and personal sessions.
 
-If you ever feel like something is missing here please reach-out and I'll try to add all that is needed in time.
+If you ever feel like something is missing here, please reach out, and I'll try to add what's needed in time.
 
 This site is built with Eleventy and Markdown and intentionally kept simple.
