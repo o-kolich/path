@@ -2,7 +2,7 @@ export default {
   title: "Path",
   description: "Notes, dispatches, and essays.",
   author: "Ondrej Kolich",
-  url: "https://o-kolich.github.io/path/",
+  url: "https://path.ondrejkolich.com/",
   year: new Date().getFullYear(),
   newsletter: {
     provider: "ConvertKit",

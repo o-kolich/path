@@ -33,12 +33,7 @@ jobs:
         run: npm ci
 
       - name: Compute PATH_PREFIX
-        run: |
-          if [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
-            echo "PATH_PREFIX=/" >> "$GITHUB_ENV"
-          else
-            echo "PATH_PREFIX=/${{ github.event.repository.name }}/" >> "$GITHUB_ENV"
-          fi
+        run: echo "PATH_PREFIX=/" >> "$GITHUB_ENV"
 
       - name: Build site
         run: npm run build
