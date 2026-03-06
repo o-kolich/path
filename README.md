@@ -27,9 +27,9 @@ Local site runs with live reload at `http://localhost:8080`.
 ## Project structure
 
 - `src/index.njk` - homepage
-- `src/about.md` - About page
-- `src/events.md` - Events page
-- `src/newsletter.md` - Newsletter page (ConvertKit form)
+- `src/pages/about.md` - About page
+- `src/pages/events.md` - Events page
+- `src/pages/newsletter.md` - Newsletter page (ConvertKit form)
 - `src/posts/*.md` - blog posts in Markdown
 - `src/tags/` - tags index + tag archive pages
 - `src/categories/` - categories index + category archive pages
