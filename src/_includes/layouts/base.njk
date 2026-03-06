@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if title %}{{ title }} · {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="{{ '/styles.css' | url }}">
+    <script src="{{ '/theme-toggle.js' | url }}" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="{{ '/' | url }}">{{ site.title }}</a>
+      <nav>
+        <a href="{{ '/about/' | url }}">About</a>
+        <a href="{{ '/events/' | url }}">Events</a>
+        <a href="{{ '/newsletter/' | url }}">Newsletter</a>
+        <a href="{{ '/posts/' | url }}">Posts</a>
+        <a href="{{ '/tags/' | url }}">Tags</a>
+        <a href="{{ '/categories/' | url }}">Categories</a>
+      </nav>
+      <button type="button" class="mode-toggle" data-mode-toggle aria-label="Toggle color mode">
+        <span class="light-label">Light</span>
+        <span class="dark-label">Dark</span>
+      </button>
+    </header>
+
+    <main>
+      {{ content | safe }}
+    </main>
+
+    <footer class="site-footer">
+      <p>&copy; {{ site.year }} {{ site.author }}</p>
+    </footer>
+  </body>
+</html>

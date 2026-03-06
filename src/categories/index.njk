@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+title: Categories
+permalink: /categories/index.html
+---
+<section class="post-list">
+  <h1>Categories</h1>
+  <ul>
+    {% for category in collections.categoryList %}
+      <li>
+        <a href="{{ category.url | url }}">{{ category.name }}</a>
+      </li>
+    {% else %}
+      <li>No categories yet.</li>
+    {% endfor %}
+  </ul>
+</section>

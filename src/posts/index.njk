@@ -1,0 +1,16 @@
+---
+layout: layouts/base.njk
+title: Posts
+permalink: /posts/index.html
+---
+<section class="post-list">
+  <h1>All Posts</h1>
+  <ul>
+    {% for post in collections.posts %}
+      <li>
+        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+        <time datetime="{{ post.date.toISOString() }}">{{ post.date | readableDate }}</time>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

@@ -1,0 +1,248 @@
+:root {
+  --bg: #f4f2ed;
+  --text: #1a1916;
+  --muted: #65615a;
+  --line: #d8d3c8;
+  --card: #faf8f3;
+  --accent: #ab4b24;
+  --max: 760px;
+  --sans: "Atkinson Hyperlegible", "Avenir Next", Avenir, "Segoe UI", sans-serif;
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, serif;
+}
+
+:root[data-theme="dark"] {
+  --bg: #101112;
+  --text: #efede8;
+  --muted: #b3ada1;
+  --line: #2b2f31;
+  --card: #151718;
+  --accent: #ea8a5a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: radial-gradient(circle at 10% 0%, color-mix(in srgb, var(--accent) 10%, var(--bg)) 0%, var(--bg) 35%);
+  color: var(--text);
+  font-family: var(--serif);
+  line-height: 1.75;
+  min-height: 100vh;
+  padding: 1.25rem;
+}
+
+.site-header,
+main,
+.site-footer {
+  margin: 0 auto;
+  max-width: var(--max);
+}
+
+.site-header {
+  display: grid;
+  gap: 0.75rem;
+  border-bottom: 1px solid var(--line);
+  padding: 1rem 0 1.25rem;
+}
+
+.brand {
+  font-family: var(--sans);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text);
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+a {
+  color: inherit;
+}
+
+nav a {
+  font-family: var(--sans);
+  color: var(--muted);
+  text-decoration: none;
+}
+
+nav a:hover,
+nav a:focus-visible {
+  color: var(--accent);
+}
+
+.mode-toggle {
+  justify-self: start;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  padding: 0.3rem 0.65rem;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+:root[data-theme="dark"] .light-label,
+:root:not([data-theme="dark"]) .dark-label {
+  opacity: 0.5;
+}
+
+main {
+  padding: 2rem 0 2.5rem;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+}
+
+h1 {
+  font-size: clamp(1.9rem, 3.8vw, 2.8rem);
+  margin: 0.2rem 0 1rem;
+}
+
+h2 {
+  margin-top: 2rem;
+  font-size: clamp(1.35rem, 3vw, 1.8rem);
+}
+
+p,
+li,
+label,
+time,
+input,
+button {
+  font-size: 1.05rem;
+}
+
+.kicker,
+.post-meta {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.8rem;
+  color: var(--muted);
+  font-family: var(--sans);
+}
+
+.post-list ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--line);
+}
+
+.post-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  border-bottom: 1px solid var(--line);
+  padding: 0.9rem 0;
+}
+
+.post-list a {
+  text-decoration: none;
+}
+
+.post-list a:hover,
+.post-list a:focus-visible {
+  color: var(--accent);
+}
+
+.post-content p,
+.post-content li {
+  max-width: 66ch;
+}
+
+.taxonomy-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.8rem;
+}
+
+.taxonomy-chip {
+  display: inline-block;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--text);
+  text-decoration: none;
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.taxonomy-chip-muted {
+  color: var(--muted);
+}
+
+.taxonomy-chip:hover,
+.taxonomy-chip:focus-visible {
+  color: var(--accent);
+}
+
+.newsletter-form {
+  display: grid;
+  gap: 0.7rem;
+  margin: 1.2rem 0;
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--card);
+}
+
+.newsletter-form input,
+.newsletter-form button {
+  font-family: var(--sans);
+  padding: 0.65rem 0.8rem;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+}
+
+.newsletter-form button {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding: 1rem 0 2rem;
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: 0.9rem;
+}
+
+@media (min-width: 700px) {
+  .site-header {
+    grid-template-columns: 1fr auto auto;
+    align-items: center;
+  }
+
+  nav {
+    justify-content: flex-end;
+  }
+
+  .mode-toggle {
+    justify-self: end;
+  }
+}

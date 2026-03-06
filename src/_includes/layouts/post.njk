@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+---
+<article class="post">
+  <header class="post-header">
+    <p class="post-meta">{{ page.date | readableDate }}</p>
+    <h1>{{ title }}</h1>
+
+    {% if taxonomyCategories.length or taxonomyTags.length %}
+      <div class="taxonomy-row">
+        {% for category in taxonomyCategories %}
+          <a class="taxonomy-chip" href="{{ category.url | url }}">{{ category.name }}</a>
+        {% endfor %}
+        {% for tag in taxonomyTags %}
+          <a class="taxonomy-chip taxonomy-chip-muted" href="{{ tag.url | url }}">#{{ tag.name }}</a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </header>
+
+  <div class="post-content">
+    {{ content | safe }}
+  </div>
+</article>

@@ -1,0 +1,23 @@
+---
+layout: layouts/base.njk
+title: Home
+---
+<section class="intro">
+  <p class="kicker">A quiet place for writing.</p>
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.description }}</p>
+</section>
+
+<section class="post-list">
+  <h2>Recent Posts</h2>
+  <ul>
+    {% for post in collections.posts %}
+      <li>
+        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+        <time datetime="{{ post.date.toISOString() }}">{{ post.date | readableDate }}</time>
+      </li>
+    {% else %}
+      <li>No posts yet.</li>
+    {% endfor %}
+  </ul>
+</section>

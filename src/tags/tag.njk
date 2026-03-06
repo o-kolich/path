@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: collections.tagList
+  size: 1
+  alias: tagInfo
+permalink: "/tags/{{ tagInfo.slug }}/index.html"
+title: "Tag: {{ tagInfo.name }}"
+---
+<section class="post-list">
+  <h1>Tag: {{ tagInfo.name }}</h1>
+  <ul>
+    {% for post in collections[tagInfo.key] | sortNewest %}
+      <li>
+        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+        <time datetime="{{ post.date.toISOString() }}">{{ post.date | readableDate }}</time>
+      </li>
+    {% else %}
+      <li>No posts for this tag yet.</li>
+    {% endfor %}
+  </ul>
+</section>

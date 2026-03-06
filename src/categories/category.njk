@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: collections.categoryList
+  size: 1
+  alias: categoryInfo
+permalink: "/categories/{{ categoryInfo.slug }}/index.html"
+title: "Category: {{ categoryInfo.name }}"
+---
+<section class="post-list">
+  <h1>Category: {{ categoryInfo.name }}</h1>
+  <ul>
+    {% for post in collections[categoryInfo.key] | sortNewest %}
+      <li>
+        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+        <time datetime="{{ post.date.toISOString() }}">{{ post.date | readableDate }}</time>
+      </li>
+    {% else %}
+      <li>No posts in this category yet.</li>
+    {% endfor %}
+  </ul>
+</section>
