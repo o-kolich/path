@@ -1,5 +1,5 @@
 export default {
-  title: "Path",
+  title: "The Path",
   description: "Notes, dispatches, and essays.",
   author: "Ondrej Kolich",
   url: "https://path.ondrejkolich.com/",
