@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/newsletter.md",
+                "file": "src/posts/on-walking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "newsletter"
+              "title": "on-walking"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "f514b325d3ab9aae",
   "lastOpenFiles": [
+    "src/posts/first-notes.md",
     "_site/newsletter/index.html",
     "_site/newsletter",
     "_site/events/index.html",
@@ -195,8 +196,6 @@
     "_site/posts/first-notes/index.html",
     "_site/posts/on-walking",
     "_site/posts/index.html",
-    "_site/posts/first-notes",
-    "src/about.md",
-    "src/posts/first-notes.md"
+    "src/about.md"
   ]
 }
