@@ -5,7 +5,6 @@ permalink: /events/index.html
 ---
 Upcoming talks and meetups:
 
-- **June 18, 2026** - Walking and Writing Workshop, Prague.
-- **September 4, 2026** - Notes in Public Lecture, Berlin.
+- **June 18, 2026** - Lorem Ipsum, Prague.
+- **September 4, 2026** - Lorem Ipsum, Berlin.
 
-For event inquiries, email `events@example.com`.
