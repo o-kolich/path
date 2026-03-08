@@ -146,9 +146,9 @@ button {
 }
 
 .post-list li {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: start;
   gap: 1rem;
   border-bottom: 1px solid var(--line);
   padding: 0.9rem 0;
@@ -156,6 +156,26 @@ button {
 
 .post-list a {
   text-decoration: none;
+}
+
+.post-list-title {
+  font-size: 1.06rem;
+}
+
+.post-list-item-main {
+  min-width: 0;
+}
+
+.post-list-taxonomy {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.45rem;
+}
+
+.post-list-taxonomy .taxonomy-chip {
+  font-size: 0.72rem;
+  letter-spacing: 0.03em;
 }
 
 .post-list a:hover,
@@ -279,5 +299,12 @@ button {
 
   .mode-toggle {
     justify-self: end;
+  }
+}
+
+@media (max-width: 520px) {
+  .post-list li {
+    grid-template-columns: 1fr;
+    gap: 0.45rem;
   }
 }

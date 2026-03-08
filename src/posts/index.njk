@@ -12,7 +12,19 @@ permalink: /posts/index.html
   <ul>
     {% for post in collections.posts %}
       <li>
-        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+        <div class="post-list-item-main">
+          <a class="post-list-title" href="{{ post.url | url }}">{{ post.data.title }}</a>
+          {% if post.data.taxonomyCategories.length or post.data.taxonomyTags.length %}
+            <div class="post-list-taxonomy">
+              {% for category in post.data.taxonomyCategories %}
+                <a class="taxonomy-chip" href="{{ category.url | url }}">{{ category.name }}</a>
+              {% endfor %}
+              {% for tag in post.data.taxonomyTags %}
+                <a class="taxonomy-chip taxonomy-chip-muted" href="{{ tag.url | url }}">#{{ tag.name }}</a>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
         <time datetime="{{ post.date.toISOString() }}">{{ post.date | readableDate }}</time>
       </li>
     {% endfor %}
