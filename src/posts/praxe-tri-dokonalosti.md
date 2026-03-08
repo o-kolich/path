@@ -1,11 +1,12 @@
 ---
 layout: layouts/post.njk
-title: Praxe - Tři dokonalosti
+title: Praxe Tři dokonalosti
 date: 2026-03-08
 tags:
   - post
+  - category:Manuály
+  - tag:Tři dokonalosti
 ---
-
 Tato série modliteb je zaměřena na invokaci a integraci třech nejvyšších kvalit Universa. Tyto kvality jsou Láska/Soucit, Moudrost/Pochopení a Vůle/Síla v jejich nejčistší neduální podobě.  Jsou jednotlivými aspekty božské dokonalosti a jejich plnou integrací by měl být člověk schopen dosáhnout stavu osvícení a jednoty s božstvím/universem/prvotním principem.
 
 Modlitba se provádí za pomoci mály/růžence, který by si měl každý student vyrobit sám, pod vedením svého Mistra. Tato mála se skládá s 30 hlavních perel a 3 oddělovacích pere, které ji rozdělují do jednotlivých dílů po 10 perlách. Na začáteční/oddělovací perle může být také ozdoba určená pro úvodní a konečnou modlitbu.
