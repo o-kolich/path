@@ -4,7 +4,7 @@ title: Praxe 5000 dechů
 date: 2026-03-08
 tags:
   - post
-  - category:Manuály
+  - category:Manuál
   - tag:5000 dechů
 ---
 Při této technice čakrového dýchání se dýchá v klidu, zvolna a vždy do plných plic i břicha. Čakrové dýchání se skládá z nádechů a výdechů, které mezi sebou nemají žádné pauzy a tedy žádné zadržování dechu jako takového.

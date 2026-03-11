@@ -4,7 +4,7 @@ title: Meditace čakrového domu
 date: 2026-03-08
 tags:
   - post
-  - category:Manuály
+  - category:Manuál
   - tag:Meditace
 ---
 
