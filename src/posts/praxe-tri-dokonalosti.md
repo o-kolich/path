@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Praxe Tři dokonalosti
-date: 2026-03-08
+date: 2026-03-11
 tags:
   - post
   - category:Manuál
