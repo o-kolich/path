@@ -42,6 +42,6 @@ Volám Vás Tři dokonalosti Univerza\! Přijďte a naplňte chrám mého bytí.
 - **Barva**: Červená
 - **Koncová invokace**: Hle, nebeská Vůle prostupuje mou mysl, mé energetické tělo i mé fyzické tělo a naplňuje tak celé mé bytí. Nechť mne léčí, obnovuje a inspiruje na mé cestě.
 
-## Ukončovací invokace
+### Ukončovací invokace
 
 Hle, nejvyšší Tři dokonalosti vedou mé kroky. Celé mé bytí je jimi prostoupeno a já přijímám jejich požehnané vedení.
