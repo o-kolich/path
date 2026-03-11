@@ -11,6 +11,7 @@ tags:
 Technika čakrového domu vizualizuje jednotlivé čakry v podobě budovy. Umožňuje nám tak nabídnout naší mysli známou fyzickou formu, kterou naše podvědomí a vyšší inspirace snadno osadí informacemi, které by jinak zůstaly jen složitě uchopitelné. 
 
 ## Popis praxe
+---
 ### Zahájení
 
 Usadíme se do meditační pozice, ve které jsme schopni sedět dlouho pohodlně a uvolněně.[^1]

@@ -16,7 +16,7 @@ Standardní počet dechů je 10-10-10. Pokud se ale při praktikování ukáže 
 Tuto praxi lze provádět jak bez modlitební mály, tak i s ní. Záleží pouze na preferenci praktikujícího.
 
 ## Popis praxe
-
+---
 ### Tři úvodní dechy
 
 Standardní tři dechy na začátek našich praxí. **Uvolnění**, pak **Koncentrace** a nakonec **Záměr**.

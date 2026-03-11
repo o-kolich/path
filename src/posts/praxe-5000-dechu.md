@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Praxe 5000 dechů
-date: 2026-03-08
+date: 2026-03-11
 tags:
   - post
   - category:Manuál
@@ -11,90 +11,120 @@ Při této technice čakrového dýchání se dýchá v klidu, zvolna a vždy do
 
 Je-li to třeba, je možné mezi jednotlivými dechy praxe dýchat zcela normálně. Je také možné dopřát si krátké pauzy mezi jednotlivými fázemi cvičení. Tyto pauzy však musí splňovat podmínku udržení záměru a pozornosti. Tím je myšleno, že během nich nesmí student ztrácet směr svých myšlenek a měl by tedy zůstávat přítomen u praxe alespoň svojí pozorností.
 
-Níže popisuji složení celého cvičení pro první sérii první čakry.
+Tuto praxi **neprovádět s modlitební málou**, nebo jinými nástroji počítání. Nechte mysl a ty nahoře aby měli prostor na podvědomou regulaci.
 
+## Popis praxe
+---
 ## Příprava
 
-Skládá se z 3 dechů, které mají za úkol připravit mysl i tělo na praxi a zároveň fixuje v mysli jasný záměr celého cvičení.
+Skládá se ze 3 dechů, které mají za úkol připravit mysl i tělo na praxi a zároveň fixuje v mysli jasný záměr celého cvičení.
 
-První dech: Vdechujeme klid a pokoj. Mysl se uklidňuje a s výdechem vypouští veškerý stres a rozrušení z celého těla.
+### První dech
 
-Druhý dech: Vdechujeme koncentraci. Pociťujeme, jak nás naplňuje soustředění a s výdechem, jak v nás zůstává a zaměřuje naši mysl, zatím co nechtěná rozptýlení přestáváme vnímat.
+Vdechujeme klid a pokoj. Mysl se uklidňuje a s výdechem vypouští veškerý stres a rozrušení z celého těla.
 
-Třetí dech: Při tomto dechu myslíme na účel nadcházející praxe a plně se do něj s výdechem pokládáme, tak aby naplnil náš klid, i koncentraci.
+### Druhý dech
+
+Vdechujeme koncentraci. Pociťujeme, jak nás naplňuje soustředění a s výdechem, jak v nás zůstává a zaměřuje naši mysl, zatím co nechtěná rozptýlení přestáváme vnímat.
+
+### Třetí dech
+
+Při tomto dechu myslíme na účel nadcházející praxe a plně se do něj s výdechem pokládáme, tak aby naplnil náš klid, i koncentraci.
 
 Myšlenka může být například tato: *„Jdu vykonat první kolo praxe Muladháry.“*  
 
 ## Zahájení praxe
 
-**Povoláme nejdokonalejší kvalitu první čakry**. Zapálíme čakrovou svíci a při zapalování plamene si představujeme, jak z ní prýští čistá energie první čakry a obaluje veškerý prostor kolem nás.
+### Povolání nejdokonalejší kvality první čakry
 
-**Soustředíme se a povoláme své ochránce**, strážce a učitele, které máme na cestě naším životem, aby nás při praxi chránili před nežádoucími vlivy a příliš agresivními ochránci, které sama čakra může mít.
+Zapálíme čakrovou svíci a při zapalování plamene si představujeme, jak z ní prýští čistá energie první čakry a obaluje veškerý prostor kolem nás.
 
-Můžeme použít například tuto formuli:
+### Povolání našich ochránců
+
+Povoláme své ochránce, strážce a učitele, které máme na cestě naším životem, aby nás při praxi chránili před nežádoucími vlivy a příliš agresivními ochránci, které sama čakra může mít.
+
+Příklad:
 
 *„Volám Vás strážci moji. Ochránci ducha mého, obránci těla mého, učitelé moji. Přijďte a buďte mi nápomocni. Ať tato praxe je mi ku prospěchu a získám dnes jen to, co mám.“*
 
-Soustředíme se a **povoláme ochránce, strážce a učitele čakry samotné**. Tito musí být vždy voláni až jako druzí, protože nejsou vždy člověku přímo nakloněni a mohou nezkušenému studentovi způsobit různé problémy svou prudkostí.
+### Povolání ochránců a učitelů čakry samotné
 
-Můžeme použít například tuto formuli:
+Tito musí být vždy voláni až jako druzí, protože nejsou vždy člověku přímo nakloněni a mohou nezkušenému studentovi způsobit různé problémy svou prudkostí.
+
+Příklad:
 
 *„Volám Vás ochránci a učitelé první čakry. Vy, jež strážíte tajemství její. Buďte mi ku pomoci. Veďte mne a učte, nechť získám Vaše předání a čakra první nechť mne naplní a očistí.“*
 
 ## Probuzení čakry
 
-První dech: Při nádechu vdechujeme kvalitu první čakry, která nás díky svíci nyní obklopuje a vedeme ji v mysli do celé čakry jako takové.
+### První dech
 
-Při výdechu si představujeme, jak se námi přivedená energie v čakře rozžíhá a ta se jejím teplem otevírá do plného květu.
+**Nádech**: vdechujeme nejčistší kvalitu první čakry, která nás díky svíci nyní obklopuje a vedeme ji v mysli do celé čakry jako takové.
 
-Druhý dech: Při nádechu opět vdechujeme kvalitu první čakry, ale tentokrát nesměřujeme její tok do celé čakry, ale pouze do jejího prvního plátku (plátek směřující dopředu, nebo první vepředu a vlevo, to záleží na konkrétní čakře a naší představě rozložení plátků).
+**Výdech**: Představujeme si, jak se námi přivedená energie v čakře rozžíhá a ta se jejím teplem otevírá do plného květu.
 
-Při výdechu si opět představujeme, jak se námi přivedená energie rozžíhá a s ní se rozvíjí i první plátek, do kterého byla přivedena.
+### Druhý dech
 
-Třetí, čtvrtý a pátý dech: Opakujeme postup druhého dechu, ale posouváme se po plátcích proti směru hodinových ručiček.
+**Nádech**: Energii směřujeme pouze do prvního plátku (U Muladháry je to plátek mířící dopředu, to záleží na konkrétní čakře a naší představě rozložení plátků).
 
-Šestý dech: Opakujeme postup druhého dechu, ale tentokrát směřujeme energii přímo do středu čakry. Do centra květu, kde je srdce a jádro celé čakry.
+**Výdech**: Námi přivedená energie se opět rozžíhá a s ní se rozvíjí do plna i první plátek, do kterého byla přivedena.
 
-Při výdechu si opět představujeme, jak se energie rozžíhá, ale tentokrát rozsvěcuje střed čakry. Ten zaplane tak silně, až spolu s ní zahoří i všechny lístky.
+### Třetí, čtvrtý a pátý dech
+
+Energii vedeme postupně do dalších jednotlivých plátků proti směru hodinových ručiček a opakujeme kroky a vizualizaci druh0ho dechu.
+
+### Šestý dech
+
+**Nádech**: Tentokrát směřujeme energii přímo do středu čakry. Do centra květu, kde je srdce a jádro celé čakry.
+
+**Výdech**: Energie se rozžíhá a rozsvěcuje střed čakry. Ten zaplane tak silně, až spolu s ní zahoří i všechny lístky.
 
 ## Očista a obnova čakry
 
-*(Tato část postupu platí pouze pro studenty plné praxe 5000 dechů. Ti z vás vykonávající přípravné praxe budou začínat s počtem dechů zadaným mistrem přímo jim na míru.)*
+*(Tato část slouží pouze coby obecný příklad postupu pro první čakru. Vždy se řiďte počty dechů a dodatečnými instrukcemi, které vám zadává ten kdo vás v praxi vede.)*
 
-Prvních deset dechů: Při nádechu vdechujeme kvalitu první čakry a směřujeme ji do prvního plátku.
+### Prvních deset dechů
 
-Při výdechu si představujeme, jak se námi přivedená energie rozžíhá a plátek s tímto posiluje a roste.
+Při nádechu vdechujeme kvalitu první čakry a směřujeme ji do prvního plátku. Při výdechu si představujeme, jak se námi přivedená energie rozžíhá a plátek s tímto posiluje a roste. S každým dechem si přestavujeme, jak plátek žhne a roste víc a víc, až do úplného dokončení série.
 
-S každým dechem si přestavujeme, jak plátek žhne a roste víc a víc, až do úplného dokončení série.
+### Druhá, třetí a čtvrtá série
 
-Druhá, třetí a čtvrtá série: Opakujeme postup prvních deseti dechů. Posouváme se při tom po plátcích proti směru hodinových ručiček.
+Opakujeme postup prvních deseti dechů. Posouváme se při tom po plátcích proti směru hodinových ručiček.
 
-Pátá série: Opakujeme postup prvních deseti dechů, ale tentokrát směřujeme energii do středu čakry.
+### Pátá série
 
-Při výdechu si opět představujeme, jak se energie rozžíhá a rozsvěcuje střed čakry, který tak začíná žhnout víc a víc.
-
-Při posledním dechu této série si představíme, jak opět zaplane celá čakra, tentokráte oním mnohem silnějším světlem a již takto nadobro zůstává.
+Opakujeme postup prvních deseti dechů, ale tentokrát směřujeme energii do středu čakry. Při výdechu si opět představujeme, jak se energie rozžíhá a rozsvěcuje střed čakry, který tak začíná žhnout víc a víc. Při posledním dechu této série si představíme, jak opět zaplane celá čakra, tentokráte oním mnohem silnějším světlem a již takto nadobro zůstává.
 
 ## Koncová meditace
 
-Po ukončení dechové části je třeba ještě nějaký čas meditovat a ponořit se do nově oživené čakry, aby se mohlo vše dobře usadit.
+Po ukončení dechové části je vhodné ještě nějaký čas meditovat a ponořit se do nově oživené čakry, aby se mohlo vše dobře usadit.
 
-Doporučuji následující témata k meditaci:
+Příklady témat k meditaci:
 
-* Aktuální stav čakry, je ten pravý a správný. Starý stav byl přirozený, ale nezdraví a proto bych měl tento nový plně přijmout.  
-* Každý plátek ke mě může promlouvat a já jim budu naslouchat a přijmu jejich moudrost.  
-* Nová dokonalost čakry mne prostupuje a naplňuje. Nebudu se jí bránit, nechám se jí očistit a zdokonalit.
+- Aktuální stav čakry, je ten pravý a správný.  
+- Každý plátek ke mě může promlouvat a já jim budu naslouchat.  
+- Nová dokonalost čakry mne prostupuje a naplňuje. Nechám se jí očistit a zdokonalit.
 
 ## Ukončení praxe
 
-Odvolání strážců čakry: Poděkujeme strážcům čakry za pomoc, vedení a jejich přítomnost při této praxi. S díky je odvoláme a rozžehnáme k odchodu.
+### Odvolání strážců čakry
 
-Můžeme použít třeba tuto formuli: *„Děkuji Vám strážci a učitelé Muladháry za Vaši pomoc a vedení. Jděte v pokoji a buďte zdrávi. Žehnám Vám. Jděte v pokoji.“*
+Poděkujeme strážcům čakry za pomoc, vedení a jejich přítomnost při této praxi. S díky je odvoláme a rozžehnáme k odchodu.
 
-Odvolání osobních ochránců:  Poděkujeme osobním strážcům a ochráncům za pomoc a jejich přítomnost při této praxi. Také je odvoláme a rozžehnáme k odchodu.
+Příklad:
 
-Můžeme použít třeba tuto formuli:
+*„Děkuji Vám strážci a učitelé Muladháry za Vaši pomoc a vedení. Jděte v pokoji.“*
 
-*„Díky Vám ochránci moji. Strážci ducha mého. Vám mé hluboké díky za Vaši přítomnost. Jděte v pokoji a nechť je Vám požehnáno. Díky Vám.“*
+### Odvolání osobních ochránců
 
-Na závěr poděkujeme čakře samotné, sfoukneme čakrovou svíci a necháme vosk vychladnout. Tím je praxe ukončena.
+Poděkujeme osobním strážcům a ochráncům za pomoc a jejich přítomnost při této praxi. Také je odvoláme a rozžehnáme k odchodu.
+
+Příklad:
+
+*„Díky Vám ochránci moji. Mé hluboké díky za Vaši přítomnost. Jděte v pokoji.“*
+
+### Poděkování esenci čakry
+
+Poděkujeme čakře samotné, sfoukneme svíci a vizualizujeme jak její energie postupně vymizí z našeho prostoru.
+
+#### Na závěr je dobré chvilku posedět s otevřenýma očima a nechat věci dosednout. Tím je praxe ukončena.
